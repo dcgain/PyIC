@@ -1,0 +1,103 @@
+Name,Symbol,Weight,Price,Sector
+Apple Inc,AAPL,14.15,140.74,Information Technology
+Microsoft Corp,MSFT,10.341,234.65,Information Technology
+Amazon.com Inc,AMZN,6.851,113.17,Consumer Discretionary
+Tesla Inc,TSLA,5.01,266.65,Consumer Discretionary
+Alphabet Inc,GOOG,3.556,96.59,Communication Services
+Alphabet Inc,GOOGL,3.437,96,Communication Services
+Meta Platforms Inc,META,2.72,135.67,Communication Services
+NVIDIA Corp,NVDA,2.502,119.7,Information Technology
+PepsiCo Inc,PEP,2.252,165.06,Consumer Staples
+Costco Wholesale Corp,COST,2.061,474.27,Consumer Staples
+Broadcom Inc,AVGO,1.814,445.15,Information Technology
+Cisco Systems Inc,CSCO,1.628,40.17,Information Technology
+T-Mobile US Inc,TMUS,1.608,133.5,Communication Services
+Texas Instruments Inc,TXN,1.42,156.2,Information Technology
+Comcast Corp,CMCSA,1.318,30.14,Communication Services
+QUALCOMM Inc,QCOM,1.303,113.5,Information Technology
+Adobe Inc,ADBE,1.256,276.34,Information Technology
+Amgen Inc,AMGN,1.176,227.28,Health Care
+Honeywell International Inc,HON,1.11,168.26,Industrials
+Intuit Inc,INTU,1.082,394.78,Information Technology
+Intel Corp,INTC,1.073,26.22,Information Technology
+Advanced Micro Devices Inc,AMD,1.037,63,Information Technology
+Netflix Inc,NFLX,0.965,236.45,Communication Services
+PayPal Holdings Inc,PYPL,0.944,87.86,Information Technology
+Starbucks Corp,SBUX,0.943,85.75,Consumer Discretionary
+Automatic Data Processing Inc,ADP,0.92,225.48,Information Technology
+Mondelez International Inc,MDLZ,0.775,56.3,Consumer Staples
+Gilead Sciences Inc,GILD,0.757,62.7,Health Care
+Regeneron Pharmaceuticals Inc,REGN,0.713,688.73,Health Care
+Analog Devices Inc,ADI,0.702,140,Information Technology
+Applied Materials Inc,AMAT,0.691,83.25,Information Technology
+Vertex Pharmaceuticals Inc,VRTX,0.688,289.07,Health Care
+Intuitive Surgical Inc,ISRG,0.65,188.1,Health Care
+Booking Holdings Inc,BKNG,0.642,1660.95,Consumer Discretionary
+Fiserv Inc,FISV,0.594,94.2,Information Technology
+CSX Corp,CSX,0.569,26.86,Industrials
+Activision Blizzard Inc,ATVI,0.563,74.37,Communication Services
+Micron Technology Inc,MU,0.522,49.3,Information Technology
+Keurig Dr Pepper Inc,KDP,0.511,35.83,Consumer Staples
+Lam Research Corp,LRCX,0.493,365.43,Information Technology
+Charter Communications Inc,CHTR,0.477,311.27,Communication Services
+American Electric Power Co Inc,AEP,0.476,88.99,Utilities
+Palo Alto Networks Inc,PANW,0.473,163.98,Information Technology
+Moderna Inc,MRNA,0.454,115.77,Health Care
+Synopsys Inc,SNPS,0.449,306.33,Information Technology
+Monster Beverage Corp,MNST,0.449,87.25,Consumer Staples
+Cadence Design Systems Inc,CDNS,0.431,163.29,Information Technology
+Marriott International Inc/MD,MAR,0.428,139.14,Consumer Discretionary
+O'Reilly Automotive Inc,ORLY,0.426,707.71,Consumer Discretionary
+KLA Corp,KLAC,0.417,306.13,Information Technology
+Kraft Heinz Co/The,KHC,0.404,33.1,Consumer Staples
+Airbnb Inc,ABNB,0.399,105.52,Consumer Discretionary
+Paychex Inc,PAYX,0.398,112.39,Information Technology
+Exelon Corp,EXC,0.391,37.43,Utilities
+MercadoLibre Inc,MELI,0.39,820.45,Consumer Discretionary
+NXP Semiconductors NV,NXPI,0.387,148.62,Information Technology
+Autodesk Inc,ADSK,0.385,187.36,Information Technology
+Cintas Corp,CTAS,0.383,386.84,Industrials
+Xcel Energy Inc,XEL,0.371,65.53,Utilities
+Fortinet Inc,FTNT,0.369,48.9,Information Technology
+ASML Holding NV,ASML,0.359,421.24,Information Technology
+Marvell Technology Inc,MRVL,0.352,42.15,Information Technology
+Lululemon Athletica Inc,LULU,0.349,296.61,Consumer Discretionary
+Crowdstrike Holdings Inc,CRWD,0.332,164.32,Information Technology
+Microchip Technology Inc,MCHP,0.329,60.79,Information Technology
+Electronic Arts Inc,EA,0.309,116.14,Communication Services
+Dexcom Inc,DXCM,0.306,81.31,Health Care
+AstraZeneca PLC ADR,AZN,0.304,54.64,Health Care
+Dollar Tree Inc,DLTR,0.3,135.2,Consumer Discretionary
+Atlassian Corp PLC,TEAM,0.3,209.14,Information Technology
+Cognizant Technology Solutions Corp,CTSH,0.294,57.68,Information Technology
+Workday Inc,WDAY,0.286,154.89,Information Technology
+Ross Stores Inc,ROST,0.281,83.32,Consumer Discretionary
+Illumina Inc,ILMN,0.281,191.33,Health Care
+PACCAR Inc,PCAR,0.28,83.56,Industrials
+Biogen Inc,BIIB,0.275,266.02,Health Care
+Pinduoduo Inc ADR,PDD,0.275,60.3,Consumer Discretionary
+Walgreens Boots Alliance Inc,WBA,0.274,31.33,Consumer Staples
+Old Dominion Freight Line Inc,ODFL,0.268,252.56,Industrials
+IDEXX Laboratories Inc,IDXX,0.267,330.35,Health Care
+Verisk Analytics Inc,VRSK,0.264,172.04,Industrials
+Fastenal Co,FAST,0.263,46.32,Industrials
+Constellation Energy Corp,CEG,0.262,82.39,Utilities
+JD.com Inc ADR,JD,0.261,50.47,Consumer Discretionary
+Copart Inc,CPRT,0.245,109.44,Industrials
+Datadog Inc,DDOG,0.243,86.95,Information Technology
+Seagen Inc,SGEN,0.242,135.56,Health Care
+Lucid Group Inc,LCID,0.229,14.01,Consumer Discretionary
+Zscaler Inc,ZS,0.22,163.96,Information Technology
+Sirius XM Holdings Inc,SIRI,0.219,5.75,Communication Services
+Baidu Inc ADR,BIDU,0.211,116.83,Communication Services
+eBay Inc,EBAY,0.203,37.32,Consumer Discretionary
+ANSYS Inc,ANSS,0.194,225.36,Information Technology
+VeriSign Inc,VRSN,0.18,174.95,Information Technology
+Zoom Video Communications Inc,ZM,0.178,73.83,Information Technology
+Align Technology Inc,ALGN,0.166,207.76,Health Care
+Skyworks Solutions Inc,SWKS,0.144,88.38,Information Technology
+Match Group Inc,MTCH,0.127,47.97,Communication Services
+Splunk Inc,SPLK,0.125,77.1,Information Technology
+NetEase Inc ADR,NTES,0.123,74.47,Communication Services
+DocuSign Inc,DOCU,0.1,54.8,Information Technology
+Okta Inc,OKTA,0.077,56.61,Information Technology

@@ -1,0 +1,81 @@
+Name,Symbol,Weight,Price,Sector
+NRG Energy Inc.,NRG,1.564524,38.91,Utilities
+Principal Financial Group Inc.,PFG,1.534184,71.4,Financials
+Cardinal Health Inc.,CAH,1.515339,67.28,Health Care
+Iron Mountain Inc.,IRM,1.501739,43.48,Real Estate
+Edison International,EIX,1.411571,57.49,Utilities
+Public Service Enterprise Group Inc,PEG,1.403587,56.97,Utilities
+Darden Restaurants Inc.,DRI,1.384905,128.26,Consumer Discretionary
+FirstEnergy Corp.,FE,1.383146,37.26,Utilities
+Chevron Corporation,CVX,1.377835,143.54,Energy
+Southern Company,SO,1.377612,69.54,Utilities
+Gilead Sciences Inc.,GILD,1.370735,62.7,Health Care
+Huntington Bancshares Incorporated,HBAN,1.364435,13.08,Financials
+Regions Financial Corporation,RF,1.363701,19.82,Financials
+Morgan Stanley,MS,1.36281,79.44,Financials
+PPL Corporation,PPL,1.359763,25.91,Utilities
+Exxon Mobil Corporation,XOM,1.355192,88.37,Energy
+Consolidated Edison Inc.,ED,1.348775,87.58,Utilities
+Pinnacle West Capital Corporation,PNW,1.346388,66.02,Utilities
+Entergy Corporation,ETR,1.341546,103.14,Utilities
+Evergy Inc.,EVRG,1.332126,61.05,Utilities
+ONEOK Inc.,OKE,1.329737,51.75,Energy
+Dominion Energy Inc,D,1.328863,71.34,Utilities
+State Street Corporation,STT,1.318472,61.55,Financials
+Kinder Morgan Inc Class P,KMI,1.296813,16.69,Energy
+PNC Financial Services Group Inc.,PNC,1.295911,149.99,Financials
+Conagra Brands Inc.,CAG,1.291102,33.21,Consumer Staples
+Duke Energy Corporation,DUK,1.288203,95.42,Utilities
+Comerica Incorporated,CMA,1.28807,72.08,Financials
+VICI Properties Inc,VICI,1.2865,29.44,Real Estate
+Valero Energy Corporation,VLO,1.274045,106.29,Energy
+Citizens Financial Group Inc.,CFG,1.271835,33.95,Financials
+Philip Morris International Inc.,PM,1.267965,85.79,Consumer Staples
+Truist Financial Corporation,TFC,1.264127,43.86,Financials
+International Business Machines Corporation,IBM,1.26294,120.87,Information Technology
+Altria Group Inc,MO,1.26279,41.02,Consumer Staples
+Williams Companies Inc.,WMB,1.255177,28.85,Energy
+Lincoln National Corporation,LNC,1.254066,44.06,Financials
+Prudential Financial Inc.,PRU,1.253704,85.91,Financials
+KeyCorp,KEY,1.253302,15.99,Financials
+Omnicom Group Inc,OMC,1.250436,63.64,Communication Services
+Invesco Ltd.,IVZ,1.24953,14,Financials
+Franklin Resources Inc.,BEN,1.242075,22.03,Financials
+Federal Realty Investment Trust,FRT,1.238303,88.44,Real Estate
+Viatris Inc.,VTRS,1.23352,8.56,Health Care
+Kimco Realty Corporation,KIM,1.233183,17.97,Real Estate
+Phillips 66,PSX,1.227157,80.16,Energy
+U.S. Bancorp,USB,1.224689,40.85,Financials
+Simon Property Group Inc.,SPG,1.224558,89.11,Real Estate
+Best Buy Co. Inc.,BBY,1.221361,64.31,Consumer Discretionary
+AbbVie Inc.,ABBV,1.216532,142.06,Health Care
+Healthpeak Properties Inc.,PEAK,1.202326,22.63,Real Estate
+Hewlett Packard Enterprise Co.,HPE,1.195299,12.01,Information Technology
+T. Rowe Price Group,TROW,1.193078,107,Financials
+Interpublic Group of Companies Inc.,IPG,1.190724,25.67,Communication Services
+Regency Centers Corporation,REG,1.188159,53.03,Real Estate
+Amcor PLC,AMCR,1.183597,10.71,Materials
+Citigroup Inc.,C,1.178459,42.25,Financials
+Verizon Communications Inc.,VZ,1.176574,38.52,Communication Services
+Boston Properties Inc.,BXP,1.174071,74.58,Real Estate
+Kimberly-Clark Corporation,KMB,1.170561,115.14,Consumer Staples
+Dow Inc.,DOW,1.165562,43.89,Materials
+Ventas Inc.,VTR,1.163142,39.41,Real Estate
+Paramount Global Class B,PARA,1.15731,18.81,Communication Services
+AT&T Inc.,T,1.155114,15.44,Communication Services
+Vornado Realty Trust,VNO,1.146596,22.93,Real Estate
+Kraft Heinz Company,KHC,1.143446,33.1,Consumer Staples
+LyondellBasell Industries NV,LYB,1.139977,74.05,Materials
+Realty Income Corporation,O,1.136968,57.69,Real Estate
+Organon & Co.,OGN,1.121032,23.47,Health Care
+Walgreens Boots Alliance Inc.,WBA,1.120223,31.33,Consumer Staples
+Whirlpool Corporation,WHR,1.113094,137.35,Consumer Discretionary
+Digital Realty Trust Inc.,DLR,1.106178,97.48,Real Estate
+3M Company,MMM,1.101499,111.7,Industrials
+Newmont Corporation,NEM,1.090519,41.56,Materials
+V.F. Corporation,VFC,1.08057,30.71,Consumer Discretionary
+International Paper Company,IP,1.070519,31.88,Materials
+Lumen Technologies Inc.,LUMN,1.060157,7.35,Communication Services
+Newell Brands Inc,NWL,1.033927,13.9,Consumer Discretionary
+Seagate Technology Holdings PLC,STX,1.023651,53.51,Information Technology
+Intel Corporation,INTC,0.950617,26.22,Information Technology
